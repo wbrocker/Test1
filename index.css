@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  font-size: 40px;
+  color: pink;
+}
+
+/* make the h2 with id="products_title" purple */
+h2#products_title { color: purple; }
+
+/* remove the bullets from all li with class="product_item" */
+li.product_item { list-style-type: none; }
+
+/* make any element with id="product_title" purple */
+#products_title { color: purple; }
+
+/* make any element with class="product_item" blue */
+.product_item { color: blue; }
+
+* {
+  font-family: 'Helvetica', sans-serif;
+}
