@@ -17,7 +17,7 @@ li.product_item { list-style-type: none; }
 #products_title { color: purple; }
 
 /* make any element with class="product_item" blue */
-.product_item { color: blue; }
+.product_item { color: red; }
 
 * {
   font-family: 'Helvetica', sans-serif;
